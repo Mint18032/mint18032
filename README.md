@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm [Minh Quach](https://github.com/Mint18032) 👋
 
+😄 Quach is my first name, thus please call me Minh.
+
 🔭 I'm pursuing my career as a front-end developer. 
 
 🌱 I'm still studying so don't hesitate to discuss with me on my projects.
-
-😄 Quach is my first name, thus please call me Minh.
 
 ## Skills:
 
 #### Frameworks and Languages:
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white))&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![SCSS/SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
@@ -58,8 +58,6 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 
-<p align = "center">
-  [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/Mint18032?tab=repositories)
+  [![https://github.com/Mint18032?tab=repositories](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mint18032?tab=repositories)&nbsp;
   <!-- [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/mint18032/) -->
-  [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/ngoc__mint)
-</p>
+  [![https://instagram.com/ngoc__mint](https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black)](https://instagram.com/ngoc__mint)&nbsp;
