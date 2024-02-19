@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 😄 Quach is my first name, thus please call me Minh.
 
-🔭 I'm pursuing my career as a front-end developer. 
+🔭 I can be either an automation tester, business analyst or front-end developer. 
 
 🌱 I'm still studying so don't hesitate to discuss with me on my projects.
 
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![NextJS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff)&nbsp;
 ![JavaScripts](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![VueJS](https://img.shields.io/badge/Vue.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![C/C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
