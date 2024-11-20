@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm [Minh Quach](https://github.com/Mint18032) 👋
 
-😄 Quach is my first name, thus please call me Minh.
+😄 Quach is my last name, thus please call me Minh.
 
-🔭 I can be either an automation tester, business analyst or front-end developer. 
+🔭 I can be either a business analyst, an automation tester or a front-end developer. 
+
+⚡ Pursuing a Master's degree in Business Analytics at University of Surrey, UK.
 
 🌱 I'm still studying so don't hesitate to discuss with me on my projects.
 
@@ -39,6 +41,7 @@ Here are some ideas to get you started:
 ![C/C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 
 #### Database
 
@@ -61,5 +64,5 @@ Here are some ideas to get you started:
 ## Connect with me:
 
 [![https://github.com/Mint18032?tab=repositories](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mint18032?tab=repositories)&nbsp;
-[![https://instagram.com/ngoc__mint](https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black)](https://instagram.com/ngoc__mint)&nbsp;
+[![https://www.linkedin.com/in/minh-quach-3a63581a6/](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minh-quach-3a63581a6/)&nbsp;
 <!-- [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/mint18032/) -->
