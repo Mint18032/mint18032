@@ -64,5 +64,5 @@ Here are some ideas to get you started:
 ## Connect with me:
 
 [![https://github.com/Mint18032?tab=repositories](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mint18032?tab=repositories)&nbsp;
-[![https://www.linkedin.com/in/minh-quach-3a63581a6/](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minh-quach-3a63581a6/)&nbsp;
+[![https://www.linkedin.com/in/ngoc-minh-quach/](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngoc-minh-quach/)&nbsp;
 <!-- [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/mint18032/) -->
