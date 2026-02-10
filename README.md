@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm [Minh Quach](https://github.com/Mint18032) 👋
 
-😄 Quach is my last name, thus please call me Minh.
+😄 My name is Minh, meaning smart.
 
-🔭 I can be either a business analyst, an automation tester or a front-end developer. 
+🔭 I'm passionate about automation and digitalization. 
 
-⚡ Pursuing a Master's degree in Business Analytics at University of Surrey, UK.
+⚡ Holding a Master's degree in Business Analytics at University of Surrey, UK.
 
 🌱 I'm still studying so don't hesitate to discuss with me on my projects.
 
